@@ -22,7 +22,7 @@ LDSAM automates the process of inserting screenshots into pre-designed lab repor
 1. Ensure placeholders in your Word file match those in the code.
 2. Run the module:
    ```bash
-   python LDSAM_main.py
+   python Module2.py
    ```
 3. When idle time elapses, a screenshot is captured and inserted at the corresponding placeholder.
 
