@@ -49,5 +49,5 @@ This project combines **GUI automation, document processing, and event-driven lo
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<yourusername>/Screenshot_to_Document_Automation_System.git
+git clone https://github.com/Sudeep3000/Screenshot_to_Document_Automation_System.git
 cd Screenshot_to_Document_Automation_System
