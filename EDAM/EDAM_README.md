@@ -22,7 +22,7 @@ EDAM automates capturing screenshots from e-learning or digital book platforms a
 1. Configure your file path, region, and idle timeout.
 2. Run the module:
    ```bash
-   python EDAM_main.py
+   python module1.py
    ```
 3. The system captures screenshots automatically and appends them to your document.
 
