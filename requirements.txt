@@ -1,0 +1,6 @@
+pyautogui
+pynput
+python-docx
+Pillow
+winotify
+docx2pdf
