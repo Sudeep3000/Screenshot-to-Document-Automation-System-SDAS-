@@ -1,15 +1,15 @@
-# 🧠 EDAM – E-Learning Documentation Automation Module
+# EDAM – E-Learning Documentation Automation Module
 
 ### Part of the SmartDoc Automation Suite (Powered by SDAS)
 
 ---
 
-## 🎯 Objective
+##  Objective
 EDAM automates capturing screenshots from e-learning or digital book platforms and compiles them into structured Word or PDF documents with minimal user interaction.
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 - Region-based screenshot capture.
 - Idle-time detection for automatic page capture.
 - Word/PDF document creation and management.
@@ -18,7 +18,7 @@ EDAM automates capturing screenshots from e-learning or digital book platforms a
 
 ---
 
-## 🧩 Usage
+## Usage
 1. Configure your file path, region, and idle timeout.
 2. Run the module:
    ```bash
@@ -28,18 +28,18 @@ EDAM automates capturing screenshots from e-learning or digital book platforms a
 
 ---
 
-## 🧾 Output
+## Output
 - A `.docx` or `.pdf` document containing all screenshots.
 - Notifications for every key step (region setup, capture, page turn, and completion).
 
 ---
 
-## 📚 Dependencies
+##  Dependencies
 ```bash
 pip install pyautogui pillow python-docx winotify pynput docx2pdf
 ```
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Developed by **Sudeep N**
