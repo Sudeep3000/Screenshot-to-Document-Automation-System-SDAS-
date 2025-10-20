@@ -1,15 +1,15 @@
-# 🧾 LDSAM – Lab Document Screenshot Automation Module
+# LDSAM – Lab Document Screenshot Automation Module
 
 ### Part of the SmartDoc Automation Suite (Powered by SDAS)
 
 ---
 
-## 🎯 Objective
+##  Objective
 LDSAM automates the process of inserting screenshots into pre-designed lab report templates by replacing specified placeholders with captured images.
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 - Placeholder-based image insertion.
 - Idle-time detection for automated screenshot timing.
 - Region-based capture.
@@ -18,7 +18,7 @@ LDSAM automates the process of inserting screenshots into pre-designed lab repor
 
 ---
 
-## 🧩 Usage
+##  Usage
 1. Ensure placeholders in your Word file match those in the code.
 2. Run the module:
    ```bash
@@ -28,12 +28,12 @@ LDSAM automates the process of inserting screenshots into pre-designed lab repor
 
 ---
 
-## 🧾 Output
+##  Output
 - A Word or PDF document with screenshots inserted precisely where placeholders existed.
 
 ---
 
-## 📚 Dependencies
+##  Dependencies
 ```bash
 pip install pyautogui pillow python-docx winotify pynput docx2pdf
 ```
